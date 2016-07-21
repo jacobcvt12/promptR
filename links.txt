@@ -2,3 +2,4 @@ https://github.com/gaborcsardi/prompt
 http://stackoverflow.com/questions/14035506/how-to-see-the-source-code-of-r-internal-or-primitive-function
 https://cran.r-project.org/doc/Rnews/Rnews_2006-4.pdf
 https://github.com/kanaka/mal/blob/master/r/readline.r
+https://github.com/jonathanslenders/python-prompt-toolkit

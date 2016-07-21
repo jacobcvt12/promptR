@@ -1,3 +1,4 @@
+from __future__ import unicode_literals
 from prompt_toolkit import prompt
 
 def main():
